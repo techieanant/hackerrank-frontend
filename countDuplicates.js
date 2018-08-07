@@ -1,4 +1,19 @@
 /*
+
+Given an array of integers, your task is to count the number of duplicate array elements. Duplicate is defined as two or more identical elements. For example, in the array [1, 2, 2, 3, 3, 3], the two twos are one duplicate and so are the three threes.
+
+Function Description
+
+Complete the function countDuplicates in the editor below. The function must return an integer denoting the number of non-unique (duplicate) values in the numbers array.
+
+countDuplicates has the following parameter(s):
+
+    numbers[numbers ,...numbers ]:  an array of integers to process
+
+Constraints
+1 ≤ n ≤ 1000
+1 ≤ numbers ≤ 1000, 0 ≤ i < n
+
 Count Duplicates
 
 Objective 1
